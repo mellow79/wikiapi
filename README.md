@@ -1,0 +1,2 @@
+# wikiapi
+Consume Wiki API
